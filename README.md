@@ -1,5 +1,5 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">Hi, I'm Minhyoung An 👋</h1>
+<h1 align="center">Hi, I'm Minhyoung An </h1>
 <p align="center">
   Master Student · IoT · On-device AI · Human Activity Recognition (HAR)<br/>
   🇯🇵 Tokyo | 🌐 Nara Institute of Science and Technology
