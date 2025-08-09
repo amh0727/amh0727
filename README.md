@@ -8,8 +8,8 @@
 <!-- 방문자 수 (hits.seeyoufarm) -->
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amh0727&count_bg=%23323232&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famh0727&count_bg=%23323232&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+</a>
 </p>
 
 ---
