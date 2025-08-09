@@ -1,70 +1,67 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">Hi, I'm Minhyoun An 👋</h1>
+<h1 align="center">Hi, I'm Minhyoung An 👋</h1>
 <p align="center">
-  Researcher / IoT · On-device AI · HAR<br/>
-  🇯🇵 Tokyo | 🌐 Nara Institute of Science and Technology 
+  Master Student · IoT · On-device AI · Human Activity Recognition (HAR)<br/>
+  🇯🇵 Tokyo | 🌐 Nara Institute of Science and Technology
 </p>
 
 <!-- 방문자 수 (hits.seeyoufarm) -->
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_USERNAME&count_bg=%23323232&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amh0727&count_bg=%23323232&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
   </a>
-</p>
-
-<!-- 소셜/링크 뱃지 -->
-<p align="center">
-  <a href="YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-505050?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-<!-- Simple Icons 색상코드와 이름을 바꿔서 추가/삭제 -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=round-square&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=round-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=round-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=round-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLM-4B8BBE?style=round-square&logo=OpenAI&logoColor=white"/>
 </p>
-
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<!-- anuraghazra/github-readme-stats -->
 <p>
-  <a href="https://github.com/amh0727/github-readme-stats">
+  <a href="https://github.com/amh0727">
     <img alt="GitHub Stats" height="170"
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=amh0727&show_icons=true&theme=default&count_private=true" />
   </a>
-  <a href="https://github.com/amh0727/github-readme-stats">
+  <a href="https://github.com/amh0727">
     <img alt="Top Langs" height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amh0727&layout=compact&langs_count=8" />
   </a>
 </p>
 
 ---
 
-
-## ✨ Current Focus
+## Current Focus
 
 - On-device **Small Language Models (SLM)** for **Human Activity Recognition**
 - Smartphone sensor pipelines · Energy profiling · Semantic evaluation
 
-## 📬 Contact
-
-- Email: an.minhyoung()gmail
-
-<!-- 읽기 쉬운 구분선 -->
 ---
 
-<!-- 푸터 한 줄 자기소개 -->
+## Featured Projects
+
+- [**Dog Behavior Analysis**]() — IoT sensor + ML pipeline for indoor dog activity and stress estimation.  
+- **On-device SLM for Real-time HAR** — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling.  
+
+
+---
+
+## Contact
+
+- Email: an.minhyoung@gmail.com  
+- Blog: [min-0.tistory.com](https://min-0.tistory.com)  
+
+---
+
 <p align="center"><i>I build human-centered AI systems that run on real devices.</i></p>
