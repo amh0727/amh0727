@@ -1,20 +1,19 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">Hi, I'm Minhyoung An </h1>
+<h1 align="center">Hi, I'm Minhyoung An</h1>
 <p align="center">
-  Master Student · IoT · On-device AI · Human Activity Recognition (HAR)<br/>
+  M.S. Student · IoT · On-device AI · Human Activity Recognition (HAR)<br/>
   🇯🇵 Tokyo | 🌐 Nara Institute of Science and Technology
 </p>
 
-<!-- 방문자 수 (hits.seeyoufarm) -->
+<!-- 방문자 수 -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/amh0727/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amh0727.amh0727" />
 </p>
 
 ---
 
 ## Tech Stack
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLM-4B8BBE?style=round-square&logo=OpenAI&logoColor=white"/>
@@ -25,9 +24,22 @@
 
 ---
 
-## GitHub Stats
+## Languages
+- **Human**: Korean (Native), Japanese (Business), English (Advanced)
+- **Programming**: Python, Kotlin
 
-<p>
+---
+
+## Research Interests
+- On-device AI for IoT and mobile platforms
+- Privacy-preserving human activity recognition
+- Semantic evaluation frameworks
+- Energy-efficient AI model deployment
+
+---
+
+## GitHub Stats
+<p align="center">
   <a href="https://github.com/amh0727">
     <img alt="GitHub Stats" height="170"
       src="https://github-readme-stats.vercel.app/api?username=amh0727&show_icons=true&theme=default&count_private=true" />
@@ -41,22 +53,23 @@
 ---
 
 ## Current Focus
-
 - On-device **Small Language Models (SLM)** for **Human Activity Recognition**
 - Smartphone sensor pipelines · Energy profiling · Semantic evaluation
 
 ---
 
 ## Featured Projects
+- [**On-device SLM for Real-time HAR**](https://doi.org/10.1145/3714394.3756346) — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling  
+- **Dog Behavior Analysis** — IoT sensor + ML pipeline for indoor dog activity and stress estimation  
 
-- **Dog Behavior Analysis** — IoT sensor + ML pipeline for indoor dog activity and stress estimation.  
-- [**On-device SLM for Real-time HAR**]() — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling.  
+---
 
+## Publications
+- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" **WellComp 2025, UbiComp**. [PDF](https://doi.org/10.1145/3714394.3756346)  to appear
 
 ---
 
 ## Contact
-
 - Email: an.minhyoung(at)gmail.com  
 
 ---
