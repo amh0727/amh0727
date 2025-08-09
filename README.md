@@ -1,8 +1,9 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">Hi, I'm Minhyoung An</h1>
+<h1 align="center">Minhyoung An</h1>
 <p align="center">
-  M.S. Student · IoT · On-device AI · Human Activity Recognition (HAR)<br/>
-  🇯🇵 Tokyo | 🌐 Nara Institute of Science and Technology
+  <b>Master's Student</b> in Ubiquitous Computing Systems Lab<br/>
+  <b>Research:</b> IoT · On-device AI · Human Activity Recognition (HAR)<br/>
+  Tokyo, Japan · <i>Nara Institute of Science and Technology</i>
 </p>
 
 <!-- 방문자 수 -->
