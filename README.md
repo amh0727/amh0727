@@ -51,8 +51,8 @@
 
 ## Featured Projects
 
-- [**Dog Behavior Analysis**]() — IoT sensor + ML pipeline for indoor dog activity and stress estimation.  
-- **On-device SLM for Real-time HAR** — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling.  
+- **Dog Behavior Analysis** — IoT sensor + ML pipeline for indoor dog activity and stress estimation.  
+- [**On-device SLM for Real-time HAR**]() — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling.  
 
 
 ---
