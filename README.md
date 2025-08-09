@@ -7,7 +7,7 @@
 
 <!-- 방문자 수 (hits.seeyoufarm) -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amh0727.amh0727" />
+<img src="https://profile-counter.glitch.me/amh0727/count.svg" />
 </p>
 
 ---
