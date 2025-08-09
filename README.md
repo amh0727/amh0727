@@ -59,8 +59,7 @@
 
 ## Contact
 
-- Email: an.minhyoung@gmail.com  
-- Blog: [min-0.tistory.com](https://min-0.tistory.com)  
+- Email: an.minhyoung(at)gmail.com  
 
 ---
 
