@@ -18,11 +18,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLM-4B8BBE?style=round-square&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=round-square&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=round-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=round-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SLM-4B8BBE?style=round-square&logo=OpenAI&logoColor=white"/>
 </p>
 
 ---
