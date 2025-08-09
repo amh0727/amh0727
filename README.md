@@ -43,11 +43,11 @@
 <p align="center">
   <a href="https://github.com/amh0727">
     <img alt="GitHub Stats" height="170"
-      src="https://github-readme-stats.vercel.app/api?username=amh0727&show_icons=true&theme=default&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=amh0727&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/amh0727">
     <img alt="Top Langs" height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amh0727&layout=compact&langs_count=8" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amh0727&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
