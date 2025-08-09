@@ -41,11 +41,11 @@
 
 <!-- anuraghazra/github-readme-stats -->
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/amh0727/github-readme-stats">
     <img alt="GitHub Stats" height="170"
       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/amh0727/github-readme-stats">
     <img alt="Top Langs" height="170"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8" />
   </a>
@@ -53,13 +53,6 @@
 
 ---
 
-## 🧩 Algorithm / Baekjoon
-
-<!-- solved.ac (선택) : boj 아이디만 교체 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID/)
-<!-- 다양한 테마는 프로젝트 문서 참고 --> 
-
----
 
 ## ✨ Current Focus
 
@@ -68,8 +61,7 @@
 
 ## 📬 Contact
 
-- Blog: YOUR_BLOG_URL  
-- Email: YOUR_EMAIL
+- Email: an.minhyoung()gmail
 
 <!-- 읽기 쉬운 구분선 -->
 ---
