@@ -67,7 +67,7 @@
 ---
 
 ## Publications
-- An, M., *et al.* (2025). "to appear" **UbiComp2025**. [PDF](https://doi.org/10.1145/3714394.3756346)  to appear
+- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" to appear in **UbiComp Workshop Wellcomp 2025**. [PDF](https://doi.org/10.1145/3714394.3756346) 
 
 ---
 
