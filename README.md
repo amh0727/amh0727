@@ -60,7 +60,7 @@
 ---
 
 ## Featured Projects
-- [**On-device SLM for Real-time HAR**](https://doi.org/10.1145/3714394.3756346) — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling
+- [**On-device SLM for Real-time HAR**] — Smartphone-based real-time activity recognition with semantic evaluation and energy profiling
 - [**Secret Love Mode**](https://github.com/amh0727/SecretLoveMode) — SLM based Live-action romance simulation game featuring branching storylines, emotional confession scenes, and bilingual (Japanese/English) dialogue system
 - **Dog Behavior Analysis** — IoT sensor + ML pipeline for indoor dog activity and stress estimation  
 
