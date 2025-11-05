@@ -54,7 +54,7 @@
 ---
 
 ## Current Focus
-- On-device **Small Language Models (SLM)** for **Human Activity Recognition**
+- On-device **Small Language Models (SLM)** for Human Activity Recognition, User Context Inference
 - Smartphone sensor pipelines · Energy profiling · Semantic evaluation
 
 ---
@@ -67,7 +67,8 @@
 ---
 
 ## Publications
-- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" to appear in **UbiComp Workshop Wellcomp 2025**. [PDF]() 
+- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" **to appear** in **UbiComp Workshop Wellcomp 2025**. [PDF]()
+- An, M., *et al.* (2025). "Small Language Model for Real-World HAR: Zero-Shot Performance and Energy Feasibility of On-Device Privacy-Preserving Contextual Inference” **to appear** in Proceedings of the IEEE International Conference on Artificial Intelligence of Things (**IEEE AIoT**), Osaka, Japan, Dec. 2025".
 
 ---
 
