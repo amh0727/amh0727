@@ -75,6 +75,3 @@
 ## Contact
 - Email: an.minhyoung(at)gmail.com  
 
----
-
-<p align="center"><i>I build human-centered AI systems that run on real devices.</i></p>
