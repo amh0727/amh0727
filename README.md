@@ -67,8 +67,8 @@
 ---
 
 ## Publications
-- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" **to appear** in **UbiComp Workshop Wellcomp 2025**. [PDF]()
-- An, M., *et al.* (2025). "Small Language Model for Real-World HAR: Zero-Shot Performance and Energy Feasibility of On-Device Privacy-Preserving Contextual Inference” **to appear** in Proceedings of the IEEE International Conference on Artificial Intelligence of Things (**IEEE AIoT**), Osaka, Japan, Dec. 2025".
+- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" in **UbiComp Workshop Wellcomp 2025**. [PDF](https://doi.org/10.1145/3714394.3756346)
+- An, M., *et al.* (2025). "Small Language Model for Real-World HAR: Zero-Shot Performance and Energy Feasibility of On-Device Privacy-Preserving Contextual Inference” **to appear** in Proceedings of the IEEE International Conference on Artificial Intelligence of Things (**IEEE AIoT**), Osaka, Japan, Dec. 2025". 
 
 ---
 
