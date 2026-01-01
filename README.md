@@ -67,8 +67,9 @@
 ---
 
 ## Publications
-- An, M., *et al.* (2025). "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models" in **UbiComp Workshop Wellcomp 2025**. [PDF](https://doi.org/10.1145/3714394.3756346)
-- An, M., *et al.* (2025). "Small Language Model for Real-World HAR: Zero-Shot Performance and Energy Feasibility of On-Device Privacy-Preserving Contextual Inference” **to appear** in Proceedings of the IEEE International Conference on Artificial Intelligence of Things (**IEEE AIoT**), Osaka, Japan, Dec. 2025". 
+- Minhyoung An, Wataru Sasaki, Yuto Shimmyo, and Keiichi Yasumoto. 2026. Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models. In Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp Companion '25**). Association for Computing Machinery, New York, NY, USA, 1658–1664. [PDF](https://doi.org/10.1145/3714394.3756346)
+- An, M., *et al.* (2025). "Small Language Model for Real-World HAR: Zero-Shot Performance and Energy Feasibility of On-Device Privacy-Preserving Contextual Inference” **to appear** in Proceedings of the IEEE International Conference on Artificial Intelligence of Things (**IEEE AIoT**), Osaka, Japan, Dec. 2025".
+- Minhyoung An, Wataru Sasaki, Hirohiko Suwa, and Keiichi Yasumoto. 2026. Toward Semantically Aligned and Energy-Efficient On-Device Contextual Inference in Real-World Environments. In Companion Proceedings of the 27th International Conference on Distributed Computing and Networking (**ICDCN Companion '26**). Association for Computing Machinery, New York, NY, USA, 48–49. [PDF](https://doi.org/10.1145/3737611.3776950)
 
 ---
 
